@@ -1,16 +1,16 @@
-# Hi, I'm Ali Ahmar Ameen 👋
-AI & RAG Integration Specialist | Full-Stack MERN, Next.js Engineer focusing on building production-ready systems.
+# Hi, I'm Ali Ahmar 👋
+**AI & RAG Integration Specialist | Full-Stack MERN, Next.js Engineer focusing on building production-ready systems.**
 
 ## Solutions for Real-World Problems
 
-### 1. Personal Branding | Blogs / Toolkit
-https://aliahmar.web.app
+### 1. B2B & B2C SaaS Web Application for Wholesalers and Retailers
+http://karobar-asani-sa.web.app/
 
 ### 2. Semester Flow Web App
 https://semester-flow.web.app/
 
-### 3. B2B & B2C SaaS Web Application for Wholesalers and Retailers
-http://karobar-asani-sa.web.app/
+### 3. Personal Branding | Blogs / Toolkit
+https://aliahmar.web.app
 
 ### 4. Grade Score Web App
 https://aliahmar.web.app/tools/grade-score-gpa-calculator
@@ -24,8 +24,8 @@ https://www.map-workout-highlighter.netlify.app/
 ### 7. Bank Transfer App
 https://bank-transfer-app.netlify.app/
 * **Demo Credentials:**
-  * **User:** aa | **PIN:** 1111
-  * **User:** fa | **PIN:** 3333
+  * **User A:** aa | **PIN:** 1111
+  * **User B:** fa | **PIN:** 3333
 
 ### 8. Bag Pack List
 https://bagpack-and-travel.netlify.app/
@@ -37,4 +37,4 @@ https://eat-split-money.netlify.app/
 * **LinkedIn:** https://www.linkedin.com/in/aliahmardev
 * **Website:** https://aliahmar.web.app
 * **Email:** aliahmardev@gmail.com
-* **WhatsApp** 03156872283
+* **WhatsApp** * [Start a Project Discussion](https://wa.me/923156872283?text=Hi%20Ali,%20I%20saw%20your%20GitHub%20portfolio%20and%20would%20like%20to%20discuss%20a%20project.)
