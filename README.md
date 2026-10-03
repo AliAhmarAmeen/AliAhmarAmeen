@@ -2,7 +2,7 @@
 **AI & RAG Integration Specialist | Full-Stack MERN, Next.js Engineer focusing on building production-ready systems.**
 
 ## Solutions for Real-World Problems
-**1. B2B & B2C SaaS Web Application** http://karobar-asani-sa.web.app/ <br />
+**1. B2B & B2C SaaS Web Application** http://karobar-asani-sa.web.app/ <br /> (Demo can be provided on demand)
 **2. Semester Flow Web App** https://semester-flow.web.app/ <br />
 **3. Personal Branding | Blogs / Toolkit** https://aliahmar.web.app <br />
 **4. Grade Score Web App** https://aliahmar.web.app/tools/grade-score-gpa-calculator <br />
