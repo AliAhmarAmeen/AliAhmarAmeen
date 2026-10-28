@@ -7,6 +7,8 @@
 **3. Personal Branding | Blogs / Toolkit** https://aliahmar.web.app <br />
 **4. Grade Score Web App** https://aliahmar.web.app/tools/grade-score-gpa-calculator <br />
 **5. Invly Web App (Grocery List Generator)** https://aliahmar.web.app/tools/invoice-app <br />
+
+## Learning by Projects during Studies
 **6. Tour Mark on Map** https://www.map-workout-highlighter.netlify.app/ <br />
 **7. Bag Pack List** https://bagpack-and-travel.netlify.app/ <br />
 **8. Friends Spending Calculator** https://eat-split-money.netlify.app/ <br />
